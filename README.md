@@ -1,10 +1,11 @@
 # MedFormula
 
-<p align="left">
-  <img src="assets/iso-9001.png" alt="Certificação ISO 9001" width="120"/>
-</p>
 
 **MedFormula** é uma empresa farmacêutica especializada em **medicamentos manipulados**, focada em inovação, qualidade e segurança na produção de fórmulas personalizadas, seguindo processos padronizados, rastreáveis e alinhados às boas práticas de gestão da qualidade, incluindo diretrizes da **ISO 9001**.  
+
+<p align="center">
+  <img src="Selo-9001.png" alt="Certificação ISO 9001" width="120"/>
+</p>
 
 Este perfil da organização no GitHub representa a **unidade de TI e Dados**, responsável por transformar dados em insights estratégicos para toda a empresa, apoiando áreas operacionais, comerciais e regulatórias por meio de soluções tecnológicas confiáveis.
 

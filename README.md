@@ -17,21 +17,21 @@ Este perfil da organização no GitHub representa a **unidade de TI e Dados**, r
 
 
 
-## 📣 Contatos do Time de Dados
+##  Contatos do Time de Dados
 
 - **Função:** Gestor de dados / TI
 - **Responsável:** Lucas Gonçalves
 - **E-mail:** indicadores.med@gmail.com
 - **Telefone:** +55 44 9765-4984
-
+---
 - **Função:** Assistente de Dados / TI  
 - **Responsável:** Alan Reis  
 - **E-mail:** indicadores.med5@gmail.com
-- - **Telefone:** +55 44 3123-7645
+- **Telefone:** +55 44 3123-7645
 
 ---
 
-## ✅ Valores do Time de TI / Dados
+##  Valores do Time de TI / Dados
 
 | Valor | Descrição |
 |-------|-----------|
@@ -42,5 +42,4 @@ Este perfil da organização no GitHub representa a **unidade de TI e Dados**, r
 
 ---
 
-Obrigado por visitar o perfil da **MedFormula – Unidade de TI & Dados**.  
-Nosso objetivo é transformar dados em insights que apoiem a inovação e a excelência na manipulação de medicamentos. 💊💡
+Obrigado por visitar o perfil da **MedFormula – Unidade de TI & Dados**. 

@@ -29,12 +29,15 @@ Este perfil da organização no GitHub representa a **unidade de TI e Dados**, r
 - **E-mail:** indicadores.med@gmail.com
 - **Telefone:** +55 44 9765-4984
 ---
-- **Função:** Assistente de Dados / TI  
+- **Função:** Analista de Dados / TI  
 - **Responsável:** Alan Reis  
 - **E-mail:** indicadores.med5@gmail.com
 - **Telefone:** +55 44 3123-7645
-
 ---
+- **Função:** Analista de Dados / TI  
+- **Responsável:** Luis Naoki  
+- **E-mail:** indicadores.med2@gmail.com
+- **Telefone:** +55 44 3123-7602
 
 ##  Valores do Time de TI / Dados
 
